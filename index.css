@@ -1,0 +1,57 @@
+
+.jumbotron{
+    background: url("./images/Hero-banner-19th-updated.png");
+    height: 482px;
+    width: 100%;
+    background-size:cover ;
+    border-radius: 0;;
+}
+ .jumbotron .justify-content-center {
+    position: relative;
+    top: 162px;
+}
+ .jumbotron a{
+    font-weight: bold;
+    
+    background: #d74f57;
+} 
+.dropdown .fa-user-o{
+    font-size: 19px;
+}
+.container{
+    width: 50%;
+    margin: 0px auto;
+    height: 128px;
+    background-color: white;
+    position: relative;
+    bottom: 98px;
+    box-shadow: 1px 2px 5px 0px #111;
+}
+.container .logo{
+    background: url("./images/dewali.png");
+    height: 100px;
+    width: 16%;
+    float: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 3px;
+    left: 10px;
+}
+.container .discription{
+    width: 55%;
+   float: left;
+   position: relative;
+    top: 29px;
+    
+    left: 145px;
+    opacity: 79%;
+
+}
+.discription .text-capitalize{
+    font-size: 15px;
+}
+.discription .text-uppercase{
+    font-size: 20px;
+    font-weight: bold;
+}
